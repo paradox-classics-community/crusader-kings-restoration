@@ -1,0 +1,66 @@
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.vs/
+
+# Build outputs
+bin/
+obj/
+artifacts/
+dist/
+out/
+TestResults/
+
+# Local environments
+.env
+.env.*
+*.user
+*.suo
+
+# Original game installations and extracted assets
+game/
+game-install/
+game-original/
+vanilla-files/
+original-assets/
+extracted-assets/
+backups/
+profiles/
+
+# Game binaries and archives
+*.exe
+*.dll
+*.cab
+*.bik
+*.mp3
+*.wav
+*.sav
+*.eug
+*.zip
+*.7z
+*.rar
+
+# Local game/runtime files
+settings.txt
+config.eu
+exceptions.log
+savedebug.txt
+history.txt
+save games/
+saved games/
+screenshots/
+logs/
+
+# Third-party downloads awaiting permission review
+third-party/
+downloads/
+archives/
+
+# Generated inventories
+inventory-output/
+manifest-all.json
+system-info.json
+configuration/
